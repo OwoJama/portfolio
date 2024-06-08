@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-sna5=w5)q3!cr+@#5h^b#t@*1(zyy7)=_=ww4*w)-s1h=%#jc5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tinuolaportfolio.vercel.app']
 
 
 # Application definition
